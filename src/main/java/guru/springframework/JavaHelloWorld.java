@@ -3,9 +3,11 @@ package guru.springframework;
 /**
  * Created by jt on 2018-12-09.
  */
-public class JavaHelloWorld {
+class JavaHelloWorld {
 
-    public String getHello(){
+
+    String getHello(){
+
         return "Hello World";
     }
 
